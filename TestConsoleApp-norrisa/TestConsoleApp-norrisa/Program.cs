@@ -14,7 +14,7 @@ namespace TestConsoleApp_norrisa
             string name = Console.ReadLine();
 
             Console.WriteLine("Hello " + name);
-            Console.WriteLine("Press ENTER to exit.");
+            Console.WriteLine("Thanks, press ENTER to exit.");
             Console.ReadLine();
         }
     }
